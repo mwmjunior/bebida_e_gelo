@@ -1,0 +1,30 @@
+C:\Users\836574281\Desktop\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.csproj.AssemblyReference.cache
+C:\Users\836574281\Desktop\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\836574281\Desktop\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.AssemblyInfoInputs.cache
+C:\Users\836574281\Desktop\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.AssemblyInfo.cs
+C:\Users\836574281\Desktop\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.csproj.CoreCompileInputs.cache
+C:\Users\836574281\Desktop\bebida_e_gelo\bin\Debug\net7.0\bebida_e_gelo.exe
+C:\Users\836574281\Desktop\bebida_e_gelo\bin\Debug\net7.0\bebida_e_gelo.deps.json
+C:\Users\836574281\Desktop\bebida_e_gelo\bin\Debug\net7.0\bebida_e_gelo.runtimeconfig.json
+C:\Users\836574281\Desktop\bebida_e_gelo\bin\Debug\net7.0\bebida_e_gelo.dll
+C:\Users\836574281\Desktop\bebida_e_gelo\bin\Debug\net7.0\bebida_e_gelo.pdb
+C:\Users\836574281\Desktop\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.dll
+C:\Users\836574281\Desktop\bebida_e_gelo\obj\Debug\net7.0\refint\bebida_e_gelo.dll
+C:\Users\836574281\Desktop\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.pdb
+C:\Users\836574281\Desktop\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.genruntimeconfig.cache
+C:\Users\836574281\Desktop\bebida_e_gelo\obj\Debug\net7.0\ref\bebida_e_gelo.dll
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\bin\Debug\net7.0\bebida_e_gelo.exe
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\bin\Debug\net7.0\bebida_e_gelo.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\bin\Debug\net7.0\bebida_e_gelo.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\bin\Debug\net7.0\bebida_e_gelo.dll
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\bin\Debug\net7.0\bebida_e_gelo.pdb
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.dll
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\obj\Debug\net7.0\refint\bebida_e_gelo.dll
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.pdb
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\obj\Debug\net7.0\bebida_e_gelo.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\bebida_e_gelo\obj\Debug\net7.0\ref\bebida_e_gelo.dll
